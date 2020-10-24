@@ -6,8 +6,8 @@
 <h2 align="center">[Student, Web developer]</h2>
 
 <p align='center'>
-  <a href="lucci5@me.com"><img height="50" src="img/gmail.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="mailto:lucci5@me.com"><img height="50" src="img/gmail.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/LucciCinque"><img height="50" src="img/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="gl-guccione.tech"><img height="50" src="img/website.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="http://www.gl-guccione.tech"><img height="50" src="img/website.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 </p>
